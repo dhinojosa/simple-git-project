@@ -1,3 +1,5 @@
 class SampleDAO {
-   def doSomething{}
+   def doSomething{
+      println("Hooray for ice cream")
+   }
 }
